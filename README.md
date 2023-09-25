@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjjurow
-- 👀 I’m interested in building software. Also chemistry, soft materials and optics
+- 👀 I’m interested in building software. Also chemistry, soft materials and optics. You can see some recent projects in action here https://www.matthewjurow.com/software-projects
 - 🌱 I’m currently learning an awful lot, very quickly, especially tinkering with some AI models and packages
 - 💞️ I’m looking to collaborate on anything interesting! especially involving python, image processing, functional programming...
 - 📫 mjurow [at] matthewjurow [dot] com
