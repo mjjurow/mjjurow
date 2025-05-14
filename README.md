@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mjjurow
-- 👀 I’m interested in building software. Also chemistry, soft materials and optics. You can see some recent projects in action here https://www.matthewjurow.com/software-projects
-- 🌱 I’m currently learning an awful lot, very quickly, especially tinkering with some AI models and packages
-- 💞️ I’m looking to collaborate on anything interesting! especially involving python, image processing, functional programming...
+- 👀 I work at the intersection of software engineering, machine learning and applied AI. Right now that means i'm ingesting and processing very large unstructured data sets into knowledge graph architectures. You can see some of my older/academic projects in action here https://www.matthewjurow.com/software-projects if you're interested in my chemistry/physics/optics/materials science background.
 - 📫 mjurow [at] matthewjurow [dot] com
 
 <!---
